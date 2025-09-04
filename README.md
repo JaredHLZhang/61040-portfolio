@@ -1,17 +1,19 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
-
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+*My name is Haolei Zhang, I'm a graduate student from Harvard Master in Design Engineering program.* [Here is a link to our program website.](https://mde.harvard.edu/) 
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+I am also a researcher at MIT Media Lab Critical Matter Group. [Here is a link to our group.](https://www.media.mit.edu/groups/critical-matter/people/)
 
+## Current Work
 
-# Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+Some works I am working on:
+
+1. Companionship AI
+2. HCAI research  
+3. Affective computing application in art and life
+
+## My Favorite Art
+
+![Picture of my favorite art](https://via.placeholder.com/400x300/4CAF50/FFFFFF?text=My+Favorite+Art)
+
+*Note: Please replace this placeholder image with your actual favorite artwork.*
