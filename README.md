@@ -14,6 +14,6 @@ Some works I am working on:
 
 ## My Favorite Art
 
-![Picture of my favorite art](https://via.placeholder.com/400x300/4CAF50/FFFFFF?text=My+Favorite+Art)
+![The Starry Night by Vincent van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
-*Note: Please replace this placeholder image with your actual favorite artwork.*
+*"The Starry Night" (1889) by Vincent van Gogh - This masterpiece captures the beauty of a night sky with swirling clouds and vibrant stars over a quiet town.*

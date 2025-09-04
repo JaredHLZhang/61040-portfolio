@@ -14,6 +14,6 @@ Some works I am working on:
 
 ## Visual Portfolio
 
-![Picture of my favorite art](https://via.placeholder.com/400x300/2196F3/FFFFFF?text=Assignment+1+Image)
+![The Starry Night by Vincent van Gogh](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
-*Note: Please replace this placeholder image with your actual favorite artwork or relevant visual content for this assignment.*
+*"The Starry Night" (1889) by Vincent van Gogh - A stunning representation of post-impressionist art that combines observation with imagination.*
