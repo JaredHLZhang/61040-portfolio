@@ -1,5 +1,7 @@
 # Assignment 1: Problem Framing
 
+[Here is a link to view a PDF version in Google Drive](https://drive.google.com/file/d/1r4mm4selDGVpsgggQqmnawqwXrnNhM1o/view?usp=drive_link)
+
 ## 1. Domains
 
 ### List of Ten Domains
@@ -30,7 +32,7 @@ Both in my own life and in my peers' lives at MIT and Harvard, I've noticed how 
 ### Domain 1: Long-distance relationships (LDR) & happiness
 - Miscommunication without nonverbal cues – Couples lose tone and body language, leading to frequent misunderstandings.
 - Low emotional resonance in digital interactions and quality time – Video calls and texts feel repetitive, failing to capture intimacy.
-- Luck of experience and "skill" for handling LDR – Young couples like our age (college students) almost first time experience LDR in their life and most likely have no idea of handling the relationship in this struggle situation.
+- Lack of experience and "skill" for handling LDR – Young couples like our age (college students) almost first time experience LDR in their life and most likely have no idea of handling the relationship in this struggle situation.
 - Reliance on generic or unhelpful LDR apps (one more for this domain) – Existing tools often create more "tasks" instead of easing emotional strain.
 
 **Selected Problem:**  
@@ -58,7 +60,7 @@ A section in the "Emotions in Virtual Communication" concept (e.g., in computer-
 A longitudinal, randomized-controlled study made by Media Lab and OpenAI found that higher daily usage of AI chatbots, especially voice-based ones, was associated with increased loneliness, greater emotional dependence on AI, and reduced real-world socialization, particularly among heavy users.
 
 #### Comparable Context
-An article by Common Sense Media reported that 75% of teens have tried AI companion apps, and 20% spend as much or more time with AI than with real friends. Experts warn this can impair social skills and deepen loneliness. Also HBS review mentioned AI companionship become top1 use for LLM in 2025 and 31% of GenZ and Millennium start to use AI companionship.
+An article by Common Sense Media reported that 75% of teens have tried AI companion apps, and 20% spend as much or more time with AI than with real friends. Experts warn this can impair social skills and deepen loneliness. Also HBS review mentioned AI companionship becomes the top use for LLM in 2025 and 31% of GenZ and Millennium start to use AI companionship.
 
 ### Domain 3: Work–life balance
 - Overloaded schedules with poor planning tools – Students juggle many tasks without effective prioritization.
@@ -78,7 +80,7 @@ Quality student-support resources, for example university wellness centers at Un
 ## 3. Stakeholders
 
 ### Problem 1: LDR miscommunication and less emotional connection in quality time
-- Partners in LDRs – primary users struggling with misunderstanding and report less emotional connect in quality time.
+- Partners in LDRs – primary users struggling with misunderstanding and report less emotional connection in quality time.
 - Therapists and relationship coaches – help clients repair damage caused by miscommunication and provide consultant on relationship support.
 - Families and close friends – indirectly affected when couples are stressed.
 
@@ -95,8 +97,8 @@ Quality student-support resources, for example university wellness centers at Un
 ## 4. Features
 
 ### Problem 1: LDR Miscommunication and less emotional connection
-- An AI mediator – understand the context and help the couple to align the misunderstanding.
-- A memory generator – An AI understand their communication context and help them generate some memory records in visual, which they always miss in long-distance (eg. no group photo, no visual memories)
+- An AI mediator – understands the context and helps the couple to align the misunderstanding.
+- A memory generator – An AI that understands their communication context and helps them generate some memory records in visual form, which they always miss in long-distance (e.g. no group photo, no visual memories)
 - Adaptive communication coaching – Provides suggestions to improve understanding over time.
 
 ### Problem 2: AI Companionship but not causing social isolation
