@@ -1,3 +1,7 @@
+# Assignment Links:
+[Assignment 1](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/assignment1.md)
+[Assignment 2](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/assignment2.md)
+
 # About Me
 
 *My name is Haolei Zhang, I'm a graduate student from Harvard Master in Design Engineering program.* [Here is a link to our program website.](https://mde.harvard.edu/) 
