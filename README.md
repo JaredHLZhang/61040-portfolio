@@ -3,6 +3,8 @@
 
 [Problem Set 1](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/problemset1.md)
 
+[Problem Set 2](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/problemset2.md)
+
 # About Me
 
 *My name is Haolei Zhang, I'm a graduate student from Harvard Master in Design Engineering program.* [Here is a link to our program website.](https://mde.harvard.edu/) 
