@@ -1,7 +1,7 @@
 # Assignment Links:
 [Assignment 1](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/assignment1.md)
 
-[Assignment 2](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/assignment2.md)
+[Problem Set 1](https://github.com/JaredHLZhang/61040-portfolio/blob/main/assignments/problemset1.md)
 
 # About Me
 
