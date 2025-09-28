@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The domain I have chosen is long-distance relationships (LDR) and the challenge of sustaining love across physical separation. LDRs are often created by circumstances such as pursuing higher education, work relocation, or job requirements. I am drawn to this domain because of its strong social and emotional impact on young adults, particularly college students and early career professionals. According to 2023 statistics, over 14 million couples in the U.S.—about 28 million individuals—are in long-distance relationships. Moreover, 75% of engaged couples report having experienced long-distance at some stage, with 40% of these relationships ending in breakups, highlighting their fragility. More than 90% of these LDRs occur among people aged 18 to 30, an age group where individuals are forming identities, careers, and long-term commitments. This makes LDRs an important domain that intersects with both emotional well-being and future planning.
+The domain I have chosen is long-distance relationships (LDR) and the challenge of sustaining love across physical separation. LDRs are often created by circumstances such as pursuing higher education, work relocation, or job requirements. I am drawn to this domain because of its strong social and emotional impact on young adults, particularly college students and early career professionals. According to 2023 statistics, over 14 million couples in the U.S. about 28 million individuals are in long-distance relationships. Moreover, 75% of engaged couples report having experienced long-distance at some stage, with 40% of these relationships ending in breakups, highlighting their fragility. More than 90% of these LDRs occur among people aged 18 to 30, an age group where individuals are forming identities, careers, and long-term commitments. This makes LDRs an important domain that intersects with both emotional well-being and future planning.
 
 While falling in love can feel effortless, staying in love requires effort and consistent shared experiences. A key problem faced by couples in LDRs is the difficulty of maintaining "companionate love," a psychological concept describing love grounded in daily physical interaction, companionship, and shared routines. Companionate love helps couples develop trust, communication patterns, and shared long-term goals. In long-distance contexts, the absence of physical presence—such as touch, face-to-face interaction, and shared activities—creates barriers to building this foundation. In the short term, couples often experience misunderstandings, anxiety, and a lack of attention to each other's needs. For example, partners may feel uncertain about what the other is truly thinking after a call or may exchange photos of daily life that create parallel narratives rather than shared experiences. These short-term gaps weaken long-term relationship stability, leading to doubts about the future, difficulty making joint decisions, and increased emotional distress.
 
@@ -25,7 +25,7 @@ While falling in love can feel effortless, staying in love requires effort and c
 
 ## Application Pitch
 
-**Amimi** is a companionship AI designed to help long-distance couples strengthen their connection by recreating the sense of shared presence that is often missing across distance. The motivation behind Amimi is simple: while falling in love is easy, staying in companionate love during long separations is difficult. Couples struggle with the absence of daily companionship—those small shared moments, conversations, and memories that build long-term trust and intimacy. Amimi aims to fill this gap by supporting couples with meaningful, context-aware interactions.
+**Amimi** is a companionship AI designed to help long-distance couples strengthen their connection by recreating the sense of shared presence that is often missing across distance. The motivation behind Amimi is simple: while falling in love is easy, staying in companionate love during long separations is difficult. Couples struggle with the absence of daily companionship, those small shared moments, conversations, and memories that build long-term trust and intimacy. Amimi aims to fill this gap by supporting couples with meaningful, context-aware interactions.
 
 ### Key Features
 
@@ -38,7 +38,7 @@ This feature transforms sweet moments from conversations into visualized storybo
 **3. Chat with Amimi**  
 An AI chat function trained with professional relationship coaching data. Couples can turn to Amimi with questions about their future, worries about each other's situation, or conflicts that arise. Drawing on its contextual knowledge from listening and memory-making, Amimi provides tailored feedback and supportive suggestions, helping couples reduce anxiety about the future and feel more confident in their relationship journey.
 
-Together, these features make Amimi more than a communication tool—it becomes a bridge for long-distance couples, helping them sustain love through companionship, memory, and guidance.
+Together, these features make Amimi more than a communication tool, it becomes a bridge for long-distance couples, helping them sustain love through companionship, memory, and guidance.
 
 ## Concept Designs for Amimi
 
@@ -180,4 +180,4 @@ getResponse(message: Message): (reply: Message)
 
 ![Amimi App UI Design](../assets/FuntionDesignDraft.png)
 
-*Complete user flow showing the pairing process, call features with Amimi listening, memory storyboard generation, and chat functionality for the Amimi long-distance relationship app.*
+*Image above is a complete user flow showing the pairing process, call features with Amimi listening, memory storyboard generation, and chat functionality for the Amimi long-distance relationship app.*
