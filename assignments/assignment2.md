@@ -16,7 +16,7 @@ While falling in love can feel effortless, staying in love requires effort and c
 ## Evidence and Comparables
 
 - **Google Trends Report (2023)**: LDR was the top relationship problem searched in the U.S., demonstrating widespread concern.
-- All the statistic mentioned above is cited from: LDR 101 [https://www.luvlink.com/blogs/news/surprising-long-distance-relationship-statistics-ldr-101?srsltid=AfmBOoq3ixXwUBPkOsm8MD0dPkRB-mo2dtPZZhdkmhJPGZMN8K0mT1U0]
+- All the statistic mentioned above is cited from: [LDR 101](https://www.luvlink.com/blogs/news/surprising-long-distance-relationship-statistics-ldr-101?srsltid=AfmBOoq3ixXwUBPkOsm8MD0dPkRB-mo2dtPZZhdkmhJPGZMN8K0mT1U0)
 - **Psychological Research on Companionate Love**: Relationship - Bridge to the Soul, Book by Christopher Moon, 2017
 - **Psychological Research on Relationship**: Attached, Book by Amir Levine and Rachel S. F. Heller, 2010
 - **College Counselor Interviews**: Silvia worked at The University of Melbourne and Julia worked at UCD
@@ -175,3 +175,9 @@ getResponse(message: Message): (reply: Message)
     requires message exists
     effects generate an AI response and append it to the chat
 ```
+
+## UI Sketch
+
+![Amimi App UI Design](../assets/FuntionDesignDraft.png)
+
+*Complete user flow showing the pairing process, call features with Amimi listening, memory storyboard generation, and chat functionality for the Amimi long-distance relationship app.*
