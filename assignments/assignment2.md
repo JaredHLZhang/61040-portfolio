@@ -181,3 +181,22 @@ getResponse(message: Message): (reply: Message)
 ![Amimi App UI Design](../assets/FuntionDesignDraft.png)
 
 *Image above is a complete user flow showing the pairing process, call features with Amimi listening, memory storyboard generation, and chat functionality for the Amimi long-distance relationship app.*
+
+## User Journey
+
+Emma is a 24-year-old graduate student living in Boston, while her boyfriend Alex works in Seattle. The time difference and busy schedules make it difficult for them to feel connected. After a few weeks apart, Emma begins to notice that their daily calls feel repetitive. She misses the small moments of companionship—like cooking together or laughing in person—that once made her relationship feel grounded. The lack of shared experiences leaves her anxious about the future of their relationship.
+
+### Step 1: Pairing with Partner
+Emma downloads Amimi after hearing about it from a friend. She generates a pairing code and sends it to Alex. Within minutes, their accounts are linked, giving them a shared space where their relationship can live digitally. This simple step reassures Emma—they now have a "home base" to nurture their bond.
+
+### Step 2: Calling with Amimi
+That evening, Emma starts a video call with Alex through Amimi. They talk about their day as usual, but this time, Amimi quietly listens in the background using its Call Listener feature. The couple doesn't feel interrupted, but Emma likes knowing that Amimi is capturing the context of their conversation so it can be used meaningfully later.
+
+### Step 3: Capturing Memories
+After the call ends, Amimi generates a Memory Storyboard. It highlights the playful moment when Alex teased Emma about her new cooking attempt, and the supportive conversation they had about Emma's upcoming exam. The storyboard arrives in their shared mailbox as a visual comic-style panel. Emma smiles while looking at it—finally, something tangible she and Alex can revisit together, almost like a shared diary.
+
+### Step 4: Chatting with Amimi
+Later that week, Emma feels anxious. She wonders whether Alex is as serious about planning their future as she is. Instead of bottling up the worry, she opens the Chat with Amimi feature. Drawing on coaching knowledge and the context of their calls, Amimi reassures her and suggests gentle ways to raise the topic with Alex in their next conversation. Emma feels calmer and prepared.
+
+### Outcome
+Through these steps, Emma's relationship feels more balanced. Instead of anxiety after calls, she now has visual reminders of happy moments and a supportive AI to talk to when doubts arise. Amimi doesn't replace Alex, but it helps Emma feel that their love story continues to be written together—even across distance.
